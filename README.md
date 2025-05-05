@@ -40,5 +40,5 @@ Deep Chat provides a powerful and flexible solution for intelligent document int
 
 1) Mohitha Bandi (22WUO0105037)
 2) T. Harshavardhan Reddy(2WUO0105023)
-3) 2) Pailla Bhavya (22WUO0105020)
+3) Pailla Bhavya (22WUO0105020)
 4) Thumma Manojna Reddy(22WUO0104134)
