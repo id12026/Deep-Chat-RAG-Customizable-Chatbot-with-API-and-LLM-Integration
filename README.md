@@ -1,11 +1,16 @@
 # Deep-Chat-RAG-Customizable-Chatbot-with-API-and-LLM-Integration-
 
 • Developed a fully customizable  chatbot capable of intelligent document interaction using fine-tuned LLM and Retrieval
-Augmented Generation (RAG 
+Augmented Generation (RAG).
+
 • Optimized performance with LoRA-based fine-tuning and 4-bit quantization, reducing model size by 70%. 
+
 •  Achieved 30% faster response times with SentenceTransformers and ChromaDB for vector retrieval. 
+
 •  Built a dynamic chat interface with LangChain pipelines for seamless querying of PDFs. 
+
 •  Technologies: Python, Transformers, LangChain, Streamlit, LoRA, ChromaDB, Ollama. 
+
 
 ![image](https://github.com/user-attachments/assets/cbfa4545-6ce5-4580-a6eb-60291d703389)
 
