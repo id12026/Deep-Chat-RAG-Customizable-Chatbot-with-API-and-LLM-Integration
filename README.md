@@ -12,8 +12,8 @@ Augmented Generation (RAG).
 •  Technologies: Python, Transformers, LangChain, Streamlit, LoRA, ChromaDB, Ollama. 
 
 
+![image](https://github.com/user-attachments/assets/4aa5305b-a27b-4a91-80ff-7dd90b964493)
 
-![image](https://github.com/user-attachments/assets/cbfa4545-6ce5-4580-a6eb-60291d703389)
 
 
 ![image](https://github.com/user-attachments/assets/123bd8fe-d417-4907-a918-084c18dd0988)
