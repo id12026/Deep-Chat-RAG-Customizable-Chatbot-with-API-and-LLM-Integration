@@ -12,20 +12,27 @@ Augmented Generation (RAG).
 •  Technologies: Python, Transformers, LangChain, Streamlit, LoRA, ChromaDB, Ollama. 
 
 
+
 ![image](https://github.com/user-attachments/assets/cbfa4545-6ce5-4580-a6eb-60291d703389)
+
 
 ![image](https://github.com/user-attachments/assets/123bd8fe-d417-4907-a918-084c18dd0988)
 
+
 ![image](https://github.com/user-attachments/assets/c6b557a7-661f-46b9-811e-293bf040c5d0)
 
+
 ![image](https://github.com/user-attachments/assets/f4e935f8-b3f2-4bfb-bc58-acc931708793)
+
 
 ![image](https://github.com/user-attachments/assets/4e9c438d-4ef1-461d-a8ff-e289e04df19e)
 
 
-#Conclusion
+
+# Conclusion
 
 Deep Chat provides a powerful and flexible solution for intelligent document interaction using LLMs and RAG. By combining real-time summarization, customizable Q&A, and fine-tuned language models, this system demonstrates the practical potential of AI in enterprise, education, and research environments.
+
 
 
 Team Members:
