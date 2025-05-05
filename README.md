@@ -35,7 +35,8 @@ Deep Chat provides a powerful and flexible solution for intelligent document int
 
 
 
-Team Members:
+
+# Team Members:
 
 1) Mohitha Bandi (22WUO0105037)
 2) T. Harshavardhan Reddy(2WUO0105023)
