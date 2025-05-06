@@ -1,6 +1,5 @@
 
 # 🚀 AI-Powered Document Summarizer
-# Created by Devi C. Arati (@deviarati18) | GitHub: https://github.com/deviarati18
 
 
 import streamlit as st
