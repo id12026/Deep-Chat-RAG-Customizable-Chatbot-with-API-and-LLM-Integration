@@ -10,7 +10,7 @@ Augmented Generation (RAG).
 
 •  Built a dynamic chat interface with LangChain pipelines for seamless querying of PDFs. 
 
-• 🛠️##** Technologies and Tools: ** Python, Transformers, LangChain, Streamlit, LoRA, ChromaDB, Ollama, Hugging Face. 
+• 🛠️##** Technologies and Tools: ** Python, Transformers, LangChain, Streamlit, LoRA, ChromaDB/FAISS, Ollama, Hugging Face, Tesseract OCR. 
 
 
 ## ✨ Key Features
@@ -32,6 +32,23 @@ Augmented Generation (RAG).
 - **Frontend**: Streamlit
 - **OCR**: PyTesseract
 - **PDF Processing**: PyMuPDF (fitz)
+
+# 📸 Screenshots 
+
+![image](https://github.com/user-attachments/assets/1518b8ad-b51e-444a-91aa-d3c9b21de977)
+
+![image](https://github.com/user-attachments/assets/cab8890c-5a5e-4bda-a9e0-997b766ba3ff)
+
+![image](https://github.com/user-attachments/assets/929908f9-f8fd-4bd5-823c-128f14889660)
+
+![image](https://github.com/user-attachments/assets/25b6c48b-30eb-4776-8e73-416a0cdd8a94)
+
+![image](https://github.com/user-attachments/assets/485ed1f7-f278-47a7-ab39-13fa7367b849)
+
+![image](https://github.com/user-attachments/assets/64a34eae-e3a3-47c1-86e1-ac26368ea812)
+
+![image](https://github.com/user-attachments/assets/01612e92-681f-48cb-af04-e2885e12bb2a)
+
 
 ## 📋 Prerequisites
 
@@ -155,6 +172,8 @@ Deep Chat provides a powerful and flexible solution for intelligent document int
 ## 📜 License
 
 This project is licensed under the Apache License.
+Apache 2.0 License - See LICENSE for details.
+
 
 ## 🤝 Contributing
 
