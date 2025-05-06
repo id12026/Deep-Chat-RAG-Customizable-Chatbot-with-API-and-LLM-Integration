@@ -9,7 +9,7 @@ Augmented Generation (RAG).
 
 •  Built a dynamic chat interface with LangChain pipelines for seamless querying of PDFs. 
 
-•  Technologies: Python, Transformers, LangChain, Streamlit, LoRA, ChromaDB, Ollama. 
+•  Technologies and Tools: Python, Transformers, LangChain, Streamlit, LoRA, ChromaDB, Ollama, Hugging Face. 
 
 
 ![image](https://github.com/user-attachments/assets/4aa5305b-a27b-4a91-80ff-7dd90b964493)
