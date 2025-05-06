@@ -60,8 +60,7 @@ Augmented Generation (RAG).
 
 ### **1. Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/DOCUMENT-SUMMARIZER-BOT.git
-cd DOCUMENT-SUMMARIZER-BOT
+git clone https://github.com/id12026/Deep-Chat-RAG-Customizable-Chatbot-with-API-and-LLM-Integration
 ```
 
 ### **2. Set Up Virtual Environment**  
