@@ -1,7 +1,5 @@
 
-# 🚀 AI-Powered Document Summarizer
-# Created by Devi C. Arati (@deviarati18) | GitHub: https://github.com/deviarati18
-
+# 🚀 Deep-Chat-RAG-Customizable-Chatbot-with-API-and-LLM-Integration
 
 import chromadb
 import os
